@@ -1,2 +1,2 @@
 # bots bots bots
-# new line with daditional words
+# new line with additional words
